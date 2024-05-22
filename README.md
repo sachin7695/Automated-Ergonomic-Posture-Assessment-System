@@ -13,7 +13,13 @@ Designed and implemented a real-time posture assessment system using MediaPipe a
 
 ![Screenshot 2024-05-22 121928](https://github.com/sachin7695/Automated-Ergonomic-Posture-Assessment-System/assets/62798405/7a389862-0039-4371-8d98-df79beb1b87f) <br>
 
-![Screenshot 2024-05-22 122013](https://github.com/sachin7695/Automated-Ergonomic-Posture-Assessment-System/assets/62798405/a8b9c4b8-71d0-4bf4-a12b-834b92199ba2)
+![Screenshot 2024-05-22 122013](https://github.com/sachin7695/Automated-Ergonomic-Posture-Assessment-System/assets/62798405/a8b9c4b8-71d0-4bf4-a12b-834b92199ba2) <br> 
+
+
+![Screenshot 2024-05-22 124447](https://github.com/sachin7695/Automated-Ergonomic-Posture-Assessment-System/assets/62798405/cf94c92b-65c5-4b4f-9955-fba2aa0797df) <br>
+
+![Screenshot 2024-05-22 124454](https://github.com/sachin7695/Automated-Ergonomic-Posture-Assessment-System/assets/62798405/5bc4388e-e554-46c0-8282-82d0a8529942) <br>
+
 
 # Tech Stack
 **Computer Vision and Pose Estimation:** <br>
