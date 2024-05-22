@@ -32,6 +32,10 @@ Used for image processing and computer vision tasks. <br>
 **NumPy:** <br>
 Utilized for numerical operations and data manipulation. <br>
 **Pandas:** <br>
-Used for data analysis and handling ergonomic scoring results.
+Used for data analysis and handling ergonomic scoring results. <br>
+
+#Future Scope
+1. Integration with Wearable Technology <br>
+2. Machine Learning for Predictive Analytics <br>
 
 
