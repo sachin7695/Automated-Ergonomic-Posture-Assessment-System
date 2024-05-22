@@ -1,7 +1,7 @@
 # Automated-Ergonomic-Posture-Assessment-System <br>
 
 # Description <br>
-Designed and implemented a real-time posture assessment system using MediaPipe and YOLO for pose estimation, demonstrating strong computer vision skills. Evaluated ergonomic risks through RULA and REBA scoring, providing actionable insights to prevent work-related musculoskeletal disorders and enhance workplace safety.
+Designed and implemented a real-time posture assessment system using MediaPipe and YOLO for pose estimation, demonstrating strong computer vision skills. Evaluated ergonomic risks through RULA and REBA scoring, providing actionable insights to prevent work-related musculoskeletal disorders and enhance workplace safety. This is a practical representation of Computer Vision in a real-life problem, it makes a starking attempt to help the companies and individuals in ergonomics and personal safety.
 
 # Objective
 1. Improve Workplace Safety: Deploy a real-time posture assessment system using MediaPipe and YOLO to reduce work-related musculoskeletal disorders. <br>
