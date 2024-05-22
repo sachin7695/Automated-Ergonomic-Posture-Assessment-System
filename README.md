@@ -16,25 +16,22 @@ Designed and implemented a real-time posture assessment system using MediaPipe a
 ![Screenshot 2024-05-22 122013](https://github.com/sachin7695/Automated-Ergonomic-Posture-Assessment-System/assets/62798405/a8b9c4b8-71d0-4bf4-a12b-834b92199ba2)
 
 # Tech Stack
-**Computer Vision and Pose Estimation:**
-**MediaPipe:**
-Used for human pose estimation to detect and analyze body posture in real-time.
-**YOLO (You Only Look Once):**
-Employed for object detection and enhancing the accuracy of pose estimation.
-**Ergonomic Risk Evaluation:**
-**RULA (Rapid Upper Limb Assessment):**
-Algorithm implemented for assessing upper limb ergonomic risks based on pose data.
-**REBA (Rapid Entire Body Assessment):**
-Algorithm used to evaluate the whole body ergonomic risks from the pose data.
-Programming Languages:
-**Python:**
-Main language for implementing the algorithms and integrating various components.
-**Frameworks and Libraries:**
-**OpenCV:**
-Used for image processing and computer vision tasks.
-**NumPy:**
-Utilized for numerical operations and data manipulation.
-**Pandas:**
+**Computer Vision and Pose Estimation:** <br>
+**MediaPipe:** <br>
+Used for human pose estimation to detect and analyze body posture in real-time. <br>
+**YOLO (You Only Look Once):** <br>
+Employed for object detection and enhancing the accuracy of pose estimation. <br>
+**Ergonomic Risk Evaluation:** <br>
+**RULA (Rapid Upper Limb Assessment):** <br>
+Algorithm implemented for assessing upper limb ergonomic risks based on pose data. <br>
+**REBA (Rapid Entire Body Assessment):** <br>
+Algorithm used to evaluate the whole body ergonomic risks from the pose data. <br>
+**Frameworks and Libraries:** <br>
+**OpenCV:** <br>
+Used for image processing and computer vision tasks. <br>
+**NumPy:** <br>
+Utilized for numerical operations and data manipulation. <br>
+**Pandas:** <br>
 Used for data analysis and handling ergonomic scoring results.
 
 
